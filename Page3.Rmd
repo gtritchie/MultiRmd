@@ -1,0 +1,11 @@
+---
+title: "Page 3"
+author: "Gary"
+date: "8/23/2018"
+output: html_document
+---
+
+## Page Three
+
+- [Page One](Page1.html)
+- [Page Two](Page2.html)
